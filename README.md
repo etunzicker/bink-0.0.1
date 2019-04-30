@@ -1,1 +1,2 @@
-# bink-0.0.1
+# Bink-0.0.1
+  Welcome to Bink-0.0.1!
